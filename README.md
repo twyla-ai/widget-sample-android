@@ -7,7 +7,7 @@ A sample Android project showcasing how to embed Twyla Widget in an activity:
 </p>
 
 ## Getting Started
-1. Grab the widget configuration from Twyla Canvas Widget configurator (Project settings -> Twyla Widget Widget -> Generate Snippet). 
+1. Grab the widget configuration from Twyla Canvas Widget configurator (Project settings -> Twyla Web Widget -> Generate Snippet).
 2. Add the embed attribute `data-embed-mode="true"` to the script. It should look something like:
 ```html
 <script
